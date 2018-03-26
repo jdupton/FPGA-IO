@@ -1,4 +1,4 @@
-# FPGA-IO
+# FPGA_IO
 Extract one or more board files' pin information and generate a top level hardware description language module.
 
 In cmd line the user should run the shell file "get_pins.sh"
